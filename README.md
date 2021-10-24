@@ -25,7 +25,7 @@ use overflow_proof::{Checked, WithDeref};
 struct OverflowError;
 
 struct BankAccount {
-  balance: Checked<u64, >,
+  balance: Checked<u64>,
 }
 
 impl BankAccount {
