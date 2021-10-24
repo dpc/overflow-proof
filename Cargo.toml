@@ -3,4 +3,13 @@ name = "overflow-proof"
 version = "0.1.0"
 edition = "2018"
 
+authors = ["Dawid Ciężarkiewicz <dpc@dpc.pw>"]
+description = "Monadic checked arithmetic for Rust"
+keywords = ["checked", "arithmetic", "overflow"]
+license = "MPL-2.0 OR MIT OR Apache-2.0"
+documentation = "https://docs.rs/overflow-proof"
+homepage = "https://github.com/dpc/overflow-proof"
+repository = "https://github.com/dpc/overflow-proof"
+readme = "README.md"
+
 [dependencies]
